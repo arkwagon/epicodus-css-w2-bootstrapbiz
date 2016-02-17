@@ -11,3 +11,9 @@ div.c-wrapper {
 .navbar {
   margin-bottom: 0;
 }
+.img-responsive {
+  padding-bottom: 10px;
+}
+#containerID {
+  padding: 50px;
+}
